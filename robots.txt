@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ceiquoiko.iequalsi.com/sitemap.xml
